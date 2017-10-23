@@ -60,7 +60,7 @@
     "chat"
   ],
   "scripts": {
-    "start": "meteor npm i && meteor npm i webwx-api --save && meteor",
+    "start": "meteor npm i && meteor",
     "lint": "eslint .",
     "lint-fix": "eslint . --fix",
     "stylelint": "stylelint packages/**/*.css",
