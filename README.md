@@ -1,0 +1,7 @@
+# IM-2017
+
+This Project is based on MIT License Open Source Project, Rocket Chat,
+
+I have added we-delegate chat, and can be now used for one user,
+
+may be changed for all users, just help to do this, thanks!
